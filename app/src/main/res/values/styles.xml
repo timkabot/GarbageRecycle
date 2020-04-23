@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/searchBarCursorColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/comic</item>
+    </style>
+
+
+</resources>
